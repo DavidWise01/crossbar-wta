@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 937
+slug  : crossbar-wta
+seal  : 36d21041847e67e3fa119d80fdf45906c2bedd1cdb62405b866976dc51366f87
+prev  : 0eee4ed17a8edb1fafbe5f294e4ffeb32c2ee3c1a95b65fc8c74c32aebc634ef
+link  : 14bd9704b299f09d2c14013c12d48afcb8175c9211456c0cf0e0b8c5d4d7ad13
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
